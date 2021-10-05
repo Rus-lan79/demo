@@ -1,5 +1,6 @@
 # Twitter Bootstrap
 ![Bootstrap logo](https://i.imgur.com/qhtywl2.png)
+
 **Twitter Bootstrap** - популярный набор компонентов для фронтенд-разработки. Построен на базе следующих технологий:
 * HTML
 * CSS
